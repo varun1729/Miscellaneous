@@ -1,0 +1,2 @@
+# Miscellaneous
+Fun math stuff
