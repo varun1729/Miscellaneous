@@ -10,7 +10,7 @@ t2 = time.monotonic()
 
 def determinant (matrix,n):
 	if (n==2):
-		return matrix[0][0] * matrix[1][1] - matrix[0][1] * matrix [1] [0] 
+		return matrix[0][0] * matrix[1][1] - matrix[0][1] * matrix [1][0] 
 	else:
 		total = 0
 		sign = 1
